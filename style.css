@@ -6,3 +6,12 @@ html {
 }
 
 
+:root {
+  --font-clash-extralight: 'ClashDisplay-Extralight', sans-serif;
+  --font-clash-light: 'ClashDisplay-Light', sans-serif;
+  --font-clash-regular: 'ClashDisplay-Regular', sans-serif;
+  --font-clash-medium: 'ClashDisplay-Medium', sans-serif;
+  --font-clash-semibold: 'ClashDisplay-Semibold', sans-serif;
+  --font-clash-bold: 'ClashDisplay-Bold', sans-serif;
+  --font-clash-variable: 'ClashDisplay-Variable', sans-serif;
+}
